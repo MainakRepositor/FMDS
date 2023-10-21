@@ -1,0 +1,5 @@
+libgl1
+libgl1-mesa-glx
+libglib2.0-0
+libgl1-mesa-dev
+libglu1-mesa-dev
